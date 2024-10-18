@@ -7,6 +7,7 @@ Este proyecto valida si la actividad de los usuarios y las usuarias difiere seg�
 - **Limpieza y Preparación de Datos** : Se corrigen y ajustan los datos para asegurar que estén en un formato adecuado para el análisis.
 
 ## Tecnologías Utilizadas
+
 - **Python**: Lenguaje principal para el análisis y procesamiento de datos.
 - **Pandas**: Librería utilizada para la manipulación y análisis de datos.
 - **Jupyter Notebook**: Entorno interactivo para ejecutar y documentar el análisis.
