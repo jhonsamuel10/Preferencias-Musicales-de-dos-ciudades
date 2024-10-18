@@ -3,6 +3,7 @@
 Este proyecto valida si la actividad de los usuarios y las usuarias difiere según el día de la semana y la ciudad. Se utilizan técnicas de análisis exploratorio de datos (EDA), limpieza y preparación de datos, y visualización de resultados.
 
 ## Funcionalidades del Proyecto
+
 - **Análisis Exploratorio de Datos (EDA)** : Se examinan los datos para extraer información clave sobre la actividad de los usuarios según la ciudad y el día de la semana.
 - **Limpieza y Preparación de Datos** : Se corrigen y ajustan los datos para asegurar que estén en un formato adecuado para el análisis.
 
@@ -15,7 +16,7 @@ Este proyecto valida si la actividad de los usuarios y las usuarias difiere seg�
 ## Flujo del Proyecto
 - **Carga de Datos**: Se cargan los datos en formato CSV utilizando Pandas.
 
-- ** Exploración de Datos (EDA):
+- **Exploración de Datos (EDA)**:
 -Se examinan las estadísticas descriptivas de los datos.
 -Se identifican valores nulos y se observa la distribución de usuarios según el día de la semana y la ciudad.
 
